@@ -1,0 +1,6 @@
+output/
+scrapysexkeyword.egg-info/
+env/
+*.pyc
+
+
